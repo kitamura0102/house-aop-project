@@ -8,6 +8,7 @@ export default {
     extend: {
       height: {
         'big': '27rem',
+        'largo': '30rem'
       }
     },
     fontFamily: {
